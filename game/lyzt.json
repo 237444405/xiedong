@@ -1,1 +1,1 @@
-{"game":"烈焰遮天","ip":"127.0.0.1","url":"http://www.baidu.com","array":[1,2,3],"json":[{"name":"谢董","age":18}]}
+{"game":"烈焰遮天","ip":"127.0.0.1","url":"http://www.baidu.com","Service_Url":"http://103.26.76.209:8052/lyzt/service/service.php","LoginSettingUrl":"http://103.26.76.209:8052/lyzt/service/develop.json","AuthUrl":"http://103.26.76.209:8052/lyzt/service/auth.php","TrackPayOrderUrl":"http://103.26.76.209:8052/lyzt/service/trackPayOrder.php"}
