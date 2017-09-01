@@ -1,6 +1,0 @@
-谢董集团
-QQ：237444405
-
-
-DEMO:
-{"game":"烈焰遮天","ip":"127.0.0.1","url":"http://www.baidu.com","array":[1,2,3],"json":[{"name":"谢董","age":18}]}
